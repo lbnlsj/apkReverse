@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IpConfig>
+    <ipArray><ip id="0">0,api.xqw.17gj.xyz</ip>
+        <ip id="1">1,api.xqw.17gj.xyz</ip>
+        <ip id="2">2,api.xqw.17gj.xyz</ip>
+        <ip id="3">3,api.xqw.17gj.xyz</ip>
+    </ipArray>
+    //ipChecked标签里面type字段为ip列表选择的字段
+    <ipChecked id="type">
+        <type>0</type>
+    </ipChecked>
+</IpConfig>

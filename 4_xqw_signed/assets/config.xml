@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IpConfig>
+    <person id="0">
+        <ipAddress>api.xqw.17gj.xyz</ipAddress>
+        <ipType>0</ipType>
+    </person>
+    <person id="1">
+        <ipAddress>api.xqw.17gj.xyz</ipAddress>
+        <ipType>1</ipType>
+    </person>
+    <person id="2">
+        <ipAddress>api.xqw.17gj.xyz</ipAddress>
+        <ipType>2</ipType>
+    </person>
+    <person id="3">
+        <ipAddress>api.xqw.17gj.xyz</ipAddress>
+        <ipType>3</ipType>
+    </person>
+    <person id="4">
+        <ipAddress>api.xqw.17gj.xyz</ipAddress>
+        <ipType>4</ipType>
+    </person>
+    <person id="5">
+        <ipAddress>api.xqw.17gj.xyz</ipAddress>
+        <ipType>5</ipType>
+    </person>
+
+</IpConfig>

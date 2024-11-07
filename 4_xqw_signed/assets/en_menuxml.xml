@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigType>
+    <Type name="Advanced modification configuration" id="0">
+        <Menu>
+            <content>genuinely modify resolution</content>
+            <title>Resolution modification</title>
+            <typeid>1</typeid>
+        </Menu>
+        <Menu>
+            <content>genuinely modify system SDK</content>
+            <title>SDK modification</title>
+            <typeid>2</typeid>
+        </Menu>
+        <Menu>
+            <content>genuinely modify mobile phone screen brightness</content>
+            <title>Screen brightness modification</title>
+            <typeid>3</typeid>
+        </Menu>
+        <Menu>
+            <content>Modify mobile GPU parameters</content>
+            <title>GPU modification</title>
+            <typeid>4</typeid>
+        </Menu>
+        <Menu>
+            <content>simulate cpuinfo information</content>
+            <title>CPU INFO modify</title>
+            <typeid>5</typeid>
+        </Menu>
+        <Menu>
+            <content>genuinely modify time of the file</content>
+            <title>touchall switch</title>
+            <typeid>6</typeid>
+        </Menu>
+    </Type>
+    <Type name="User data simulation" id="1">
+        <Menu>
+            <content>Automatically disconnect the network when vpn goes offline</content>
+            <title>ip protection</title>
+            <typeid>7</typeid>
+        </Menu>
+        <Menu>
+            <content>simulate mobile phone address list information</content>
+            <title>Address list modification</title>
+            <typeid>8</typeid>
+        </Menu>
+        <Menu>
+            <content>Simulated list of apps installed on mobile</content>
+            <title>Install application simulation service</title>
+            <typeid>9</typeid>
+        </Menu>
+        <Menu>
+            <content>simulate mobile network</content>
+            <title>Network modification</title>
+            <typeid>10</typeid>
+        </Menu>
+    </Type>
+    <Type name="Expand Service" id="2">
+        <Menu>
+            <content>The installation task is issued by the background</content>
+            <title>Install application service</title>
+            <typeid>11</typeid>
+        </Menu>
+        <Menu>
+            <content>Self-service settings to hide the keyboard</content>
+            <title>Keyboard Settings</title>
+            <typeid>12</typeid>
+        </Menu>
+        <Menu>
+            <content>Turn on the virtual button</content>
+            <title>Virtual button</title>
+            <typeid>13</typeid>
+        </Menu>
+        <Menu>
+            <content>Click to set the address</content>
+            <title>arp configuration</title>
+            <typeid>14</typeid>
+        </Menu>
+        <Menu>
+            <content>Grant all permissions to the application after changing the mobile</content>
+            <title>Grant permission</title>
+            <typeid>15</typeid>
+        </Menu>
+        <Menu>
+            <content>Simulate boot time</content>
+            <title>boot time</title>
+            <typeid>16</typeid>
+        </Menu>
+        <Menu>
+            <content>Enable it to automatically save the log</content>
+            <title>Enable log service</title>
+            <typeid>17</typeid>
+        </Menu>
+    </Type>
+    <Type name="Module Switch" id="3">
+        <Menu>
+            <content>Analog file switch</content>
+            <title>stat switch</title>
+            <typeid>18</typeid>
+        </Menu>
+        <Menu>
+            <content>After clicking the configuration, switch on the access port hidden by the application of the mobile
+            </content>
+            <title>Hidden port</title>
+            <typeid>19</typeid>
+        </Menu>
+        <Menu>
+            <content>After clicking turn on it will simulate sensor monitoring data</content>
+            <title>Sensor data switch</title>
+            <typeid>20</typeid>
+        </Menu>
+        <Menu>
+            <content>After clicking turn on, it will simulate the sim card</content>
+            <title>simulate sim card switch</title>
+            <typeid>21</typeid>
+        </Menu>
+    </Type>
+</ConfigType>
